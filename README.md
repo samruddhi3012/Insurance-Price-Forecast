@@ -1,4 +1,4 @@
-# Insurance Price Forecast
+# Insurance Price Prediction
 <img width="847" height="442" alt="copy visual selection" src="https://github.com/user-attachments/assets/4c22ec5f-a83f-460a-acd6-0568f1a4b47a" />
 
 ## 📍 Objectives
